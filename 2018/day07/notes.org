@@ -1,0 +1,52 @@
+C
+
+CA
+
+CF
+
+AB
+
+AD
+
+BDFE
+
+Sorting ideas:
+
+A rule is greater than another if it depends on it?
+
+C < CA
+C < CF
+
+but
+
+C < BDFE (how to code?)
+CA < BDFE
+
+
+is listed as:
+
+CA
+CF
+AB
+AD
+BE
+DE
+FE
+
+or:
+
+AC
+FC
+BA
+DA
+EB
+ED
+EF
+
+to sort this mess...
+
+ABADBECACFDEFE
+FEDECFCABEADAB
+ACBADAEBEDEFFC
+FCEFEDEBDABAAC
+
