@@ -1,0 +1,1 @@
+/nix/store/65dk7wwwkn9cgim39k7p3823qdrqy8py-gcc-wrapper-8.3.0/bin/g++  -std=c++17 -g   CMakeFiles/day20.dir/main.cpp.o  -o day20 -lpthread 

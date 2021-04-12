@@ -1,0 +1,21 @@
+Start testing: Dec 10 19:31 PST
+----------------------------------------------------------
+1/1 Testing: intcodetest
+1/1 Test: intcodetest
+Command: "/home/starji/projects/AdventOfCode/2019/day11/test_intcode"
+Directory: /home/starji/projects/AdventOfCode/2019/day11
+"intcodetest" start time: Dec 10 19:31 PST
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (13 assertions in 4 test cases)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"intcodetest" end time: Dec 10 19:31 PST
+"intcodetest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 10 19:31 PST

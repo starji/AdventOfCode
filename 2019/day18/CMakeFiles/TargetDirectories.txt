@@ -1,0 +1,5 @@
+/home/starji/projects/AdventOfCode/2019/day18/CMakeFiles/rebuild_cache.dir
+/home/starji/projects/AdventOfCode/2019/day18/CMakeFiles/edit_cache.dir
+/home/starji/projects/AdventOfCode/2019/day18/CMakeFiles/test.dir
+/home/starji/projects/AdventOfCode/2019/day18/CMakeFiles/day18.dir
+/home/starji/projects/AdventOfCode/2019/day18/CMakeFiles/test_intcode.dir

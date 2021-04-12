@@ -1,0 +1,47 @@
+Start testing: Dec 09 20:22 PST
+----------------------------------------------------------
+1/1 Testing: intcodetest
+1/1 Test: intcodetest
+Command: "/home/starji/projects/AdventOfCode/2019/day10/test_intcode"
+Directory: /home/starji/projects/AdventOfCode/2019/day10
+"intcodetest" start time: Dec 09 20:22 PST
+Output:
+----------------------------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+test_intcode is a Catch v2.11.0 host application.
+Run with -? for options
+
+-------------------------------------------------------------------------------
+Day5 test
+-------------------------------------------------------------------------------
+/home/starji/projects/AdventOfCode/2019/day10/IntcodeTests.cpp:10
+...............................................................................
+
+/home/starji/projects/AdventOfCode/2019/day10/IntcodeTests.cpp:10: FAILED:
+due to unexpected exception with message:
+  Waiting on input
+
+-------------------------------------------------------------------------------
+Day9 quine
+-------------------------------------------------------------------------------
+/home/starji/projects/AdventOfCode/2019/day10/IntcodeTests.cpp:30
+...............................................................................
+
+/home/starji/projects/AdventOfCode/2019/day10/IntcodeTests.cpp:30: FAILED:
+due to a fatal error condition:
+  SIGSEGV - Segmentation violation signal
+
+===============================================================================
+test cases: 2 | 2 failed
+assertions: 2 | 2 failed
+
+<end of output>
+Test time =   0.17 sec
+----------------------------------------------------------
+Test Failed.
+"intcodetest" end time: Dec 09 20:22 PST
+"intcodetest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 09 20:22 PST
